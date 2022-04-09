@@ -1,8 +1,6 @@
 import { URL } from 'node:url';
 import { HttpClient } from 'typed-rest-client/HttpClient';
 
-import * as Responses from './responses';
-
 /** Soap Client */
 export class SoapClient {
 
