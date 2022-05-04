@@ -27,8 +27,8 @@
   "dependencies": {
     "@epickris/node-logger": "^0.0.3",
     "ping": "^0.4.1",
-    "typed-rest-client": "^1.8.4",
-    "sky-remote": "^1.2.0"
+    "sky-remote": "^1.2.0",
+    "typed-rest-client": "^1.8.4"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",
